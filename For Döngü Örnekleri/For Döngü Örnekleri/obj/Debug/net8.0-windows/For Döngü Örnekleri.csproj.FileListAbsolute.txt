@@ -1,0 +1,32 @@
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.exe
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.deps.json
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.runtimeconfig.json
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.dll
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.pdb
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For_Döngü_Örnekleri.Form1.resources
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.AssemblyInfo.cs
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.dll
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\refint\For Döngü Örnekleri.dll
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.pdb
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.genruntimeconfig.cache
+C:\Users\Emir Çoban\source\repos\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\ref\For Döngü Örnekleri.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net8.0-windows\For Döngü Örnekleri.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For_Döngü_Örnekleri.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\refint\For Döngü Örnekleri.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\For Döngü Örnekleri.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net8.0-windows\ref\For Döngü Örnekleri.dll
