@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\bin\Debug\SinemaBiletŞatış.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\bin\Debug\SinemaBiletŞatış.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\bin\Debug\SinemaBiletŞatış.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\obj\Debug\SinemaBiletŞatış.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\obj\Debug\SinemaBiletŞatış.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\obj\Debug\SinemaBiletŞatış.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\obj\Debug\SinemaBiletŞatış.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\obj\Debug\SinemaBiletŞatış.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\obj\Debug\SinemaBiletŞatış.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SinemaBiletŞatış\SinemaBiletŞatış\obj\Debug\SinemaBiletŞatış.pdb

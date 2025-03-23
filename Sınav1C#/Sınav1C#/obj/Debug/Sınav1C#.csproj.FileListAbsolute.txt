@@ -1,0 +1,15 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\bin\Debug\Sınav1C#.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\bin\Debug\Sınav1C#.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\bin\Debug\Sınav1C#.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C#.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C_.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C_.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C#.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C#.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C#.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C#.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C_.Form2.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C_.Form3.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C_.Form4.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C_.Form5.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Sınav1C#\Sınav1C#\obj\Debug\Sınav1C_.Form6.resources
