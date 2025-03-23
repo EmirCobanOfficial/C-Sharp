@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\bin\Debug\GoogleTranslateUygulaması.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\bin\Debug\GoogleTranslateUygulaması.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\bin\Debug\GoogleTranslateUygulaması.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\obj\Debug\GoogleTranslateUygulaması.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\obj\Debug\GoogleTranslateUygulaması.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\obj\Debug\GoogleTranslateUygulaması.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\obj\Debug\GoogleTranslateUygulaması.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\obj\Debug\GoogleTranslateUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\obj\Debug\GoogleTranslateUygulaması.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\GoogleTranslateUygulaması\GoogleTranslateUygulaması\obj\Debug\GoogleTranslateUygulaması.pdb
