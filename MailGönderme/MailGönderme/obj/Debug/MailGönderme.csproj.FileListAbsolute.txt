@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\bin\Debug\MailGönderme.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\bin\Debug\MailGönderme.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\bin\Debug\MailGönderme.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\obj\Debug\MailGönderme.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\obj\Debug\MailGönderme.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\obj\Debug\MailGönderme.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\obj\Debug\MailGönderme.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\obj\Debug\MailGönderme.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\obj\Debug\MailGönderme.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MailGönderme\MailGönderme\obj\Debug\MailGönderme.pdb
