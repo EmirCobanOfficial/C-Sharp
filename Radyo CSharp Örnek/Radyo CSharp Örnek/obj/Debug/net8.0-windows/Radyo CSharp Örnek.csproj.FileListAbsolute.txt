@@ -1,0 +1,44 @@
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.exe
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.deps.json
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.runtimeconfig.json
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.dll
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.pdb
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.csproj.ResolveComReference.cache
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo_CSharp_Örnek.Form1.resources
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo_CSharp_Örnek.Properties.Resources.resources
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.AssemblyInfo.cs
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.dll
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\refint\Radyo CSharp Örnek.dll
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.pdb
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.genruntimeconfig.cache
+C:\Users\Emir Çoban\source\repos\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\ref\Radyo CSharp Örnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Radyo CSharp Örnek.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.csproj.ResolveComReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo_CSharp_Örnek.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo_CSharp_Örnek.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\refint\Radyo CSharp Örnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\Radyo CSharp Örnek.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Radyo CSharp Örnek\Radyo CSharp Örnek\obj\Debug\net8.0-windows\ref\Radyo CSharp Örnek.dll
