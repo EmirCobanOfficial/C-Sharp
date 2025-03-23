@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net8.0-windows\HesapMakinesiDouble.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net8.0-windows\HesapMakinesiDouble.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net8.0-windows\HesapMakinesiDouble.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net8.0-windows\HesapMakinesiDouble.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net8.0-windows\HesapMakinesiDouble.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\HesapMakinesiDouble.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\HesapMakinesiDouble.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\HesapMakinesiDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\HesapMakinesiDouble.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\HesapMakinesiDouble.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\HesapMakinesiDouble.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\HesapMakinesiDouble.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\refint\HesapMakinesiDouble.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\HesapMakinesiDouble.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\HesapMakinesiDouble.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net8.0-windows\ref\HesapMakinesiDouble.dll
