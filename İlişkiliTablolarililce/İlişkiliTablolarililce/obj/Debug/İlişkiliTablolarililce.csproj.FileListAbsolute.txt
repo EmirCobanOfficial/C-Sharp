@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\bin\Debug\İlişkiliTablolarililce.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\bin\Debug\İlişkiliTablolarililce.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\bin\Debug\İlişkiliTablolarililce.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\obj\Debug\İlişkiliTablolarililce.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\obj\Debug\İlişkiliTablolarililce.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\obj\Debug\İlişkiliTablolarililce.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\obj\Debug\İlişkiliTablolarililce.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\obj\Debug\İlişkiliTablolarililce.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\obj\Debug\İlişkiliTablolarililce.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\İlişkiliTablolarililce\İlişkiliTablolarililce\obj\Debug\İlişkiliTablolarililce.pdb

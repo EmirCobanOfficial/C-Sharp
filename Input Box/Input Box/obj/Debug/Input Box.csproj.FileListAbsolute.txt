@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\bin\Debug\Input Box.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\bin\Debug\Input Box.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\bin\Debug\Input Box.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\obj\Debug\Input Box.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\obj\Debug\Input_Box.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\obj\Debug\Input_Box.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\obj\Debug\Input Box.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\obj\Debug\Input Box.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\obj\Debug\Input Box.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Input Box\Input Box\obj\Debug\Input Box.pdb
