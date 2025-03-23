@@ -1,0 +1,12 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form2.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form3.resources

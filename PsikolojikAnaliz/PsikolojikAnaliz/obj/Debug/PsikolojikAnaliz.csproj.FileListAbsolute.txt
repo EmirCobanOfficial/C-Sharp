@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\bin\Debug\PsikolojikAnaliz.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\bin\Debug\PsikolojikAnaliz.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\bin\Debug\PsikolojikAnaliz.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\obj\Debug\PsikolojikAnaliz.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\obj\Debug\PsikolojikAnaliz.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\obj\Debug\PsikolojikAnaliz.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\obj\Debug\PsikolojikAnaliz.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\obj\Debug\PsikolojikAnaliz.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\obj\Debug\PsikolojikAnaliz.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\PsikolojikAnaliz\PsikolojikAnaliz\obj\Debug\PsikolojikAnaliz.pdb
