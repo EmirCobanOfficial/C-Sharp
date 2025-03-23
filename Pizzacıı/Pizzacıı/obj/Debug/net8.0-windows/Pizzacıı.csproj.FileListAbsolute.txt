@@ -1,0 +1,17 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\bin\Debug\net8.0-windows\Pizzacıı.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\bin\Debug\net8.0-windows\Pizzacıı.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\bin\Debug\net8.0-windows\Pizzacıı.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\bin\Debug\net8.0-windows\Pizzacıı.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\bin\Debug\net8.0-windows\Pizzacıı.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\refint\Pizzacıı.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\Pizzacıı.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Pizzacıı\Pizzacıı\obj\Debug\net8.0-windows\ref\Pizzacıı.dll

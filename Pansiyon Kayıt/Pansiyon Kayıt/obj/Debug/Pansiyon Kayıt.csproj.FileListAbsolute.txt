@@ -1,0 +1,11 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Pansiyon Kayıt.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Pansiyon Kayıt.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Pansiyon Kayıt.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon_Kayıt.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon_Kayıt.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon_Kayıt.FrmAdmin.resources
