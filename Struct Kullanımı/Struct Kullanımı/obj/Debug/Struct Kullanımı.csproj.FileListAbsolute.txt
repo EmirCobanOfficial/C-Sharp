@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\bin\Debug\Struct Kullanımı.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\bin\Debug\Struct Kullanımı.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\bin\Debug\Struct Kullanımı.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\obj\Debug\Struct Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\obj\Debug\Struct_Kullanımı.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\obj\Debug\Struct_Kullanımı.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\obj\Debug\Struct Kullanımı.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\obj\Debug\Struct Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\obj\Debug\Struct Kullanımı.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Struct Kullanımı\Struct Kullanımı\obj\Debug\Struct Kullanımı.pdb
