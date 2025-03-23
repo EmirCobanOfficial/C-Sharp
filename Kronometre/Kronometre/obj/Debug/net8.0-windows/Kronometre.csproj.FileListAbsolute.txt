@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\bin\Debug\net8.0-windows\Kronometre.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\bin\Debug\net8.0-windows\Kronometre.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\bin\Debug\net8.0-windows\Kronometre.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\bin\Debug\net8.0-windows\Kronometre.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\bin\Debug\net8.0-windows\Kronometre.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\Kronometre.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\Kronometre.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\Kronometre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\Kronometre.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\Kronometre.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\Kronometre.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\Kronometre.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\refint\Kronometre.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\Kronometre.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\Kronometre.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Kronometre\Kronometre\obj\Debug\net8.0-windows\ref\Kronometre.dll
