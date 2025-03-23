@@ -1,0 +1,12 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Form2.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.EkranAlıntısı.resources

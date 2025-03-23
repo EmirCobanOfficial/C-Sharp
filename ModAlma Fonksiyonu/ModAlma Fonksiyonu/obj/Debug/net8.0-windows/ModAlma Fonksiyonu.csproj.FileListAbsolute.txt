@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\bin\Debug\net8.0-windows\ModAlma Fonksiyonu.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\bin\Debug\net8.0-windows\ModAlma Fonksiyonu.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\bin\Debug\net8.0-windows\ModAlma Fonksiyonu.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\bin\Debug\net8.0-windows\ModAlma Fonksiyonu.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\bin\Debug\net8.0-windows\ModAlma Fonksiyonu.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ModAlma_Fonksiyonu.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ModAlma Fonksiyonu.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ModAlma Fonksiyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ModAlma Fonksiyonu.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ModAlma Fonksiyonu.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ModAlma Fonksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ModAlma Fonksiyonu.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\refint\ModAlma Fonksiyonu.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ModAlma Fonksiyonu.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ModAlma Fonksiyonu.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\ModAlma Fonksiyonu\ModAlma Fonksiyonu\obj\Debug\net8.0-windows\ref\ModAlma Fonksiyonu.dll
