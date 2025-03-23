@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\bin\Debug\SqlTabloOlusturma.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\bin\Debug\SqlTabloOlusturma.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\bin\Debug\SqlTabloOlusturma.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\obj\Debug\SqlTabloOlusturma.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\obj\Debug\SqlTabloOlusturma.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\obj\Debug\SqlTabloOlusturma.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\obj\Debug\SqlTabloOlusturma.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\obj\Debug\SqlTabloOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\obj\Debug\SqlTabloOlusturma.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SqlTabloOlusturma\SqlTabloOlusturma\obj\Debug\SqlTabloOlusturma.pdb

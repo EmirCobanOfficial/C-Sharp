@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\obj\Debug\SQL'de Mükerrer Kayıt Engelleme.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\obj\Debug\SQL_de_Mükerrer_Kayıt_Engelleme.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\obj\Debug\SQL_de_Mükerrer_Kayıt_Engelleme.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\obj\Debug\SQL'de Mükerrer Kayıt Engelleme.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\obj\Debug\SQL'de Mükerrer Kayıt Engelleme.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\bin\Debug\SQL'de Mükerrer Kayıt Engelleme.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\bin\Debug\SQL'de Mükerrer Kayıt Engelleme.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\bin\Debug\SQL'de Mükerrer Kayıt Engelleme.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\obj\Debug\SQL'de Mükerrer Kayıt Engelleme.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SQL'de Mükerrer Kayıt Engelleme\SQL'de Mükerrer Kayıt Engelleme\obj\Debug\SQL'de Mükerrer Kayıt Engelleme.pdb
