@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\bin\Debug\net8.0-windows\RandomSayı.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\bin\Debug\net8.0-windows\RandomSayı.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\bin\Debug\net8.0-windows\RandomSayı.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\bin\Debug\net8.0-windows\RandomSayı.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\bin\Debug\net8.0-windows\RandomSayı.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\RandomSayı.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\RandomSayı.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\RandomSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\RandomSayı.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\RandomSayı.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\RandomSayı.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\RandomSayı.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\refint\RandomSayı.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\RandomSayı.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\RandomSayı.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RandomSayı\RandomSayı\obj\Debug\net8.0-windows\ref\RandomSayı.dll
