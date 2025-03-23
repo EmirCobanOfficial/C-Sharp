@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\bin\Debug\Matematik Komutları.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\bin\Debug\Matematik Komutları.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\bin\Debug\Matematik Komutları.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\obj\Debug\Matematik Komutları.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\obj\Debug\Matematik_Komutları.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\obj\Debug\Matematik_Komutları.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\obj\Debug\Matematik Komutları.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\obj\Debug\Matematik Komutları.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\obj\Debug\Matematik Komutları.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Matematik Komutları\Matematik Komutları\obj\Debug\Matematik Komutları.pdb

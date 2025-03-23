@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\bin\Debug\MaskedTextbox Aracı.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\bin\Debug\MaskedTextbox Aracı.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\bin\Debug\MaskedTextbox Aracı.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\obj\Debug\MaskedTextbox Aracı.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\obj\Debug\MaskedTextbox_Aracı.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\obj\Debug\MaskedTextbox_Aracı.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\obj\Debug\MaskedTextbox Aracı.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\obj\Debug\MaskedTextbox Aracı.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\obj\Debug\MaskedTextbox Aracı.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MaskedTextbox Aracı\MaskedTextbox Aracı\obj\Debug\MaskedTextbox Aracı.pdb

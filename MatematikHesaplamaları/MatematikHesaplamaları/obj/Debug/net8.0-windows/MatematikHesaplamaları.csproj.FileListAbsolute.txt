@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\net8.0-windows\MatematikHesaplamaları.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\net8.0-windows\MatematikHesaplamaları.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\net8.0-windows\MatematikHesaplamaları.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\net8.0-windows\MatematikHesaplamaları.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\bin\Debug\net8.0-windows\MatematikHesaplamaları.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\MatematikHesaplamaları.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\MatematikHesaplamaları.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\MatematikHesaplamaları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\MatematikHesaplamaları.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\MatematikHesaplamaları.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\MatematikHesaplamaları.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\MatematikHesaplamaları.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\refint\MatematikHesaplamaları.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\MatematikHesaplamaları.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\MatematikHesaplamaları.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MatematikHesaplamaları\MatematikHesaplamaları\obj\Debug\net8.0-windows\ref\MatematikHesaplamaları.dll
