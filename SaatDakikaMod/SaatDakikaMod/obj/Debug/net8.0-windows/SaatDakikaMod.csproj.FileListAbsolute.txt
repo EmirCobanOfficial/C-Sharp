@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\bin\Debug\net8.0-windows\SaatDakikaMod.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\bin\Debug\net8.0-windows\SaatDakikaMod.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\bin\Debug\net8.0-windows\SaatDakikaMod.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\bin\Debug\net8.0-windows\SaatDakikaMod.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\bin\Debug\net8.0-windows\SaatDakikaMod.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\SaatDakikaMod.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\SaatDakikaMod.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\SaatDakikaMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\SaatDakikaMod.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\SaatDakikaMod.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\SaatDakikaMod.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\SaatDakikaMod.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\refint\SaatDakikaMod.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\SaatDakikaMod.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\SaatDakikaMod.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SaatDakikaMod\SaatDakikaMod\obj\Debug\net8.0-windows\ref\SaatDakikaMod.dll
