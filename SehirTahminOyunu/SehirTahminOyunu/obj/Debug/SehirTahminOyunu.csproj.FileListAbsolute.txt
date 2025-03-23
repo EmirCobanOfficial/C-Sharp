@@ -1,0 +1,11 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\bin\Debug\SehirTahminOyunu.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\bin\Debug\SehirTahminOyunu.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\bin\Debug\SehirTahminOyunu.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.Form2.resources
