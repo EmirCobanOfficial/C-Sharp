@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\bin\Debug\net8.0-windows\SayaçTimer.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\bin\Debug\net8.0-windows\SayaçTimer.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\bin\Debug\net8.0-windows\SayaçTimer.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\bin\Debug\net8.0-windows\SayaçTimer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\bin\Debug\net8.0-windows\SayaçTimer.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\SayaçTimer.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\SayaçTimer.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\SayaçTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\SayaçTimer.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\SayaçTimer.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\SayaçTimer.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\SayaçTimer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\refint\SayaçTimer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\SayaçTimer.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\SayaçTimer.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\SayaçTimer\SayaçTimer\obj\Debug\net8.0-windows\ref\SayaçTimer.dll
