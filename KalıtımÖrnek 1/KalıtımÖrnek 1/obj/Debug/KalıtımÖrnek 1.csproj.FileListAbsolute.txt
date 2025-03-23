@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\bin\Debug\KalıtımÖrnek 1.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\bin\Debug\KalıtımÖrnek 1.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\bin\Debug\KalıtımÖrnek 1.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\obj\Debug\KalıtımÖrnek 1.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\obj\Debug\KalıtımÖrnek_1.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\obj\Debug\KalıtımÖrnek_1.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\obj\Debug\KalıtımÖrnek 1.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\obj\Debug\KalıtımÖrnek 1.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\obj\Debug\KalıtımÖrnek 1.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\KalıtımÖrnek 1\KalıtımÖrnek 1\obj\Debug\KalıtımÖrnek 1.pdb

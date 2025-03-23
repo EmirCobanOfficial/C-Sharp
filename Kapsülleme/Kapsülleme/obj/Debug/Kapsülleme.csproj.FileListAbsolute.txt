@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\bin\Debug\Kapsülleme.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\bin\Debug\Kapsülleme.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\bin\Debug\Kapsülleme.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Kapsülleme\Kapsülleme\obj\Debug\Kapsülleme.pdb
