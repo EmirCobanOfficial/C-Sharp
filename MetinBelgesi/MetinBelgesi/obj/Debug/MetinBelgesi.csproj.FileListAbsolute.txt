@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\bin\Debug\MetinBelgesi.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\bin\Debug\MetinBelgesi.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\bin\Debug\MetinBelgesi.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\MetinBelgesi\MetinBelgesi\obj\Debug\MetinBelgesi.pdb

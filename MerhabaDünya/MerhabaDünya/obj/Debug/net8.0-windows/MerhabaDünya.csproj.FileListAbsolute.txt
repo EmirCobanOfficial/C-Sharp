@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\bin\Debug\net8.0-windows\MerhabaDünya.exe
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\bin\Debug\net8.0-windows\MerhabaDünya.deps.json
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\bin\Debug\net8.0-windows\MerhabaDünya.runtimeconfig.json
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\bin\Debug\net8.0-windows\MerhabaDünya.dll
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\bin\Debug\net8.0-windows\MerhabaDünya.pdb
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\MerhabaDünya.Form1.resources
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\MerhabaDünya.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\MerhabaDünya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\MerhabaDünya.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\MerhabaDünya.AssemblyInfo.cs
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\MerhabaDünya.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\MerhabaDünya.dll
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\refint\MerhabaDünya.dll
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\MerhabaDünya.pdb
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\MerhabaDünya.genruntimeconfig.cache
+C:\Users\Emir Çoban\source\repos\MerhabaDünya\MerhabaDünya\obj\Debug\net8.0-windows\ref\MerhabaDünya.dll
