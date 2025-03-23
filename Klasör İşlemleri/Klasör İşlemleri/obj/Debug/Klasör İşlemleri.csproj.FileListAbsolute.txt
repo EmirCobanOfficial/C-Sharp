@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\bin\Debug\Klasör İşlemleri.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\bin\Debug\Klasör İşlemleri.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\bin\Debug\Klasör İşlemleri.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\obj\Debug\Klasör İşlemleri.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\obj\Debug\Klasör_İşlemleri.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\obj\Debug\Klasör_İşlemleri.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\obj\Debug\Klasör İşlemleri.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\obj\Debug\Klasör İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\obj\Debug\Klasör İşlemleri.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Klasör İşlemleri\Klasör İşlemleri\obj\Debug\Klasör İşlemleri.pdb
