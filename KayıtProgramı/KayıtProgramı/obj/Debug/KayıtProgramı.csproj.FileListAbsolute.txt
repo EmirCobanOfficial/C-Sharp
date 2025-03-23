@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\obj\Debug\KayıtProgramı.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\obj\Debug\KayıtProgramı.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\obj\Debug\KayıtProgramı.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\obj\Debug\KayıtProgramı.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\obj\Debug\KayıtProgramı.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\bin\Debug\KayıtProgramı.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\bin\Debug\KayıtProgramı.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\bin\Debug\KayıtProgramı.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\obj\Debug\KayıtProgramı.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KayıtProgramı\KayıtProgramı\obj\Debug\KayıtProgramı.pdb
