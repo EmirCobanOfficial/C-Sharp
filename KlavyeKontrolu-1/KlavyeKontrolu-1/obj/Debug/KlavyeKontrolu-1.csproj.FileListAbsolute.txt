@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\bin\Debug\KlavyeKontrolu-1.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\bin\Debug\KlavyeKontrolu-1.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\bin\Debug\KlavyeKontrolu-1.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\obj\Debug\KlavyeKontrolu-1.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\obj\Debug\KlavyeKontrolu_1.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\obj\Debug\KlavyeKontrolu_1.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\obj\Debug\KlavyeKontrolu-1.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\obj\Debug\KlavyeKontrolu-1.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\obj\Debug\KlavyeKontrolu-1.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KlavyeKontrolu-1\KlavyeKontrolu-1\obj\Debug\KlavyeKontrolu-1.pdb
