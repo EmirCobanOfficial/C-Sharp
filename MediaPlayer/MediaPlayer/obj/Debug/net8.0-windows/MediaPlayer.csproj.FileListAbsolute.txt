@@ -1,0 +1,42 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\refint\MediaPlayer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Day 1\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\ref\MediaPlayer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\MediaPlayer.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\refint\MediaPlayer.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\MediaPlayer.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\MediaPlayer\MediaPlayer\obj\Debug\net8.0-windows\ref\MediaPlayer.dll
