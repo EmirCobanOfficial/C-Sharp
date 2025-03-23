@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\bin\Debug\net8.0-windows\KaldıGeçti.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\bin\Debug\net8.0-windows\KaldıGeçti.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\bin\Debug\net8.0-windows\KaldıGeçti.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\bin\Debug\net8.0-windows\KaldıGeçti.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\bin\Debug\net8.0-windows\KaldıGeçti.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\KaldıGeçti.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\KaldıGeçti.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\KaldıGeçti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\KaldıGeçti.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\KaldıGeçti.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\KaldıGeçti.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\KaldıGeçti.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\refint\KaldıGeçti.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\KaldıGeçti.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\KaldıGeçti.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\KaldıGeçti\KaldıGeçti\obj\Debug\net8.0-windows\ref\KaldıGeçti.dll
