@@ -1,0 +1,11 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\bin\Debug\OOP-1.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\bin\Debug\OOP-1.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\bin\Debug\OOP-1.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\obj\Debug\OOP-1.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\obj\Debug\OOP_1.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\obj\Debug\OOP_1.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\obj\Debug\OOP-1.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\obj\Debug\OOP-1.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\obj\Debug\OOP-1.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\obj\Debug\OOP-1.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\OOP-1\OOP-1\obj\Debug\OOP_1.Form2.resources
