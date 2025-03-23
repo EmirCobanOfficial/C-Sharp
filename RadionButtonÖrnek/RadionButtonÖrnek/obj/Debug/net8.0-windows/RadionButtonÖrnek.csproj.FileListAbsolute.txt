@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\bin\Debug\net8.0-windows\RadionButtonÖrnek.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\bin\Debug\net8.0-windows\RadionButtonÖrnek.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\bin\Debug\net8.0-windows\RadionButtonÖrnek.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\bin\Debug\net8.0-windows\RadionButtonÖrnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\bin\Debug\net8.0-windows\RadionButtonÖrnek.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\RadionButtonÖrnek.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\RadionButtonÖrnek.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\RadionButtonÖrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\RadionButtonÖrnek.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\RadionButtonÖrnek.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\RadionButtonÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\RadionButtonÖrnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\refint\RadionButtonÖrnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\RadionButtonÖrnek.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\RadionButtonÖrnek.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\RadionButtonÖrnek\RadionButtonÖrnek\obj\Debug\net8.0-windows\ref\RadionButtonÖrnek.dll
